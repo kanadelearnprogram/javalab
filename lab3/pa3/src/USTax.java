@@ -6,8 +6,8 @@ public class USTax extends Tax{
     }
 
 
-    @Override
+    /*@Override
     double addTax(double price, int num) {
         return 0;
-    }
+    }*/
 }

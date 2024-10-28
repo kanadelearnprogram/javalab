@@ -6,8 +6,8 @@ public class CNTax extends Tax{
 
 
 
-    @Override
+   /* @Override
     double addTax(double price, int num) {
         return 0;
-    }
+    }*/
 }
