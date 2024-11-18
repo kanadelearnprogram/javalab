@@ -36,7 +36,6 @@ public class Customer {
         this.name = name;
         this.address = address;
     }
-
     /**
      * Returns a string representation of the Customer object
      *
